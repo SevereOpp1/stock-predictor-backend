@@ -7,7 +7,7 @@ Overview
 
 Flask REST API serving stock predictions
 
-Deployed on AWS Fargate (serverless compute)
+Dockerized and deployed on AWS Fargate (serverless compute)
 
 Communicates with the Streamlit frontend via an HTTP endpoint
 
