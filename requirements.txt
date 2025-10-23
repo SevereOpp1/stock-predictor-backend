@@ -1,0 +1,6 @@
+flask == 2.3.3
+yfinance >= 0.2.66
+numpy
+pandas
+tensorflow-cpu
+scikit-learn
